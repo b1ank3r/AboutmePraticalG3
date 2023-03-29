@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AboutmePraticalG3</string>
+    <string name="name">veo</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet,
+        \n\nonsectetur adipiscing elit. Aenean semper imperdiet nisl.
+        \n\nMorbi bibendum nibh non augue facilisis, non tristique leo mollis.
+        \n\nAliquam ultricies, est congue vulputate rutrum, velit lectus ornare dui, interdum sodales mi nibh condimentum sem.
+        \n\nSed consectetur in orci at auctor.
+        \n\nCurabitur ultricies viverra facilisis. Praesent rhoncus vulputate leo sit amet mollis.
+        \n\nDonec semper ultricies orci, vitae maximus nulla molestie quis. Nam pharetra maximus tellus quis gravida.
+        \n\nDonec accumsan neque nec finibus lacinia. Praesent condimentum libero in risus congue, in tempus felis cursus.
+        \n\nFusce leo risus, venenatis nec consectetur ac, lobortis eget mauris. Curabitur a magna nec arcu hendrerit finibus sed ut ipsum.
+        \n\nSed faucibus mattis arcu, fringilla convallis mi ultrices sed. In turpis sem, tempus et molestie id, fermentum nec quam.
+        \n\nProin viverra dictum iaculis. Etiam vitae aliquam elit. Vivamus vel velit vel ante blandit varius.
+        \n\nOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        \n\nPellentesque iaculis mauris ut odio volutpat, ac vulputate leo porttitor. Vestibulum dignissim nunc erat.
+        \n\nNunc volutpat dignissim sollicitudin. Quisque vehicula, leo vitae mollis malesuada, nibh sapien sodales lorem, vitae iaculis leo quam eget mauris.
+        \n\nDuis egestas nibh libero, vitae viverra elit fringilla vitae. Cras cursus nec ligula a convallis.</string>
+    <string name="what_is_your_nickname">What is your name?</string>
+    <string name="done">Done</string>
+</resources>
